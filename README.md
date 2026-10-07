@@ -127,3 +127,5 @@
 2. Откройте его в любом современном браузере (Chrome, Edge, Firefox, Safari).
 3. Нажмите на шестерёнку **⚙️** в правом верхнем углу и укажите ваш **Gemini API Key** (из [Google AI Studio](https://aistudio.google.com/app/apikey)) или **OpenRouter API Key**.
 4. Вставьте английский текст и наслаждайтесь чтением с глубоким разбором!
+#   L e a r n E N  
+ 
